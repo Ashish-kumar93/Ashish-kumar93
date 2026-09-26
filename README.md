@@ -67,7 +67,6 @@ I'm a Computer Science & Engineering student at Lovely Professional University w
 ## 🏆 Achievements
 - 🧩 **600+ LeetCode problems solved**
 - ⭐ **5-Star SQL Rating on HackerRank**
-- 🎓 **8.90 CGPA** in B.Tech CSE
 - 🏅 Completed **Next-Gen Data Bootcamp with an O Grade**
 
 ## 📜 Certifications
@@ -80,7 +79,7 @@ I'm a Computer Science & Engineering student at Lovely Professional University w
 ## 🎓 Education
 **Lovely Professional University**  
 Bachelor of Technology — Computer Science & Engineering  
-**CGPA: 8.90 | 2024 – Present**
+**2024 – Present**
 
 ## 🌱 Currently Learning
 **Data Analytics → Machine Learning → Artificial Intelligence → AI/ML Engineering**
