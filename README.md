@@ -63,12 +63,7 @@ I'm a Computer Science & Engineering student at Lovely Professional University w
 - ⚙️ AI-Powered Applications
 - 🔌 REST API Development
 - 💻 Data Structures & Algorithms
-
-## 🏆 Achievements
-- 🧩 **600+ LeetCode problems solved**
-- ⭐ **5-Star SQL Rating on HackerRank**
-- 🏅 Completed **Next-Gen Data Bootcamp with an O Grade**
-
+  
 ## 📜 Certifications
 - **Data Structures & Algorithms** — NeoColab
 - **Programming Using C++** — Infosys
